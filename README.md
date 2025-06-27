@@ -135,6 +135,6 @@ Since my personal laptop can't handle ML model training (I used to use a 4-GPU s
 
     <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-username>"/>  
+            src="https://widgetbite.com/stats/<alfonsoer>"/>  
     </div>
 
