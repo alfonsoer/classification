@@ -134,10 +134,8 @@ Since my personal laptop can't handle ML model training (I used to use a 4-GPU s
 
 ![Visitor Count](https://profile-counter.glitch.me/{alfonsoer}/count.svg)
 
-    <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<alfonsoer>"/>  
-    </div>
+![Visitor Count](https://widgetbite.com/stats/alfonsoer)  
+ 
 
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
