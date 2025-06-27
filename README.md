@@ -135,6 +135,6 @@ Since my personal laptop can't handle ML model training (I used to use a 4-GPU s
 # Visites
 ![](https://hit.yhype.me/github/profile?account_id=32367293)
 
-![Visitor Count](https://profile-counter.glitch.me/{alfonsoer}/count.svg)
+![](https://hit.yhype.me/github/profile?account_id=32367293)
 
 ![Visitor Count](https://widgetbite.com/stats/alfonsoer)  
