@@ -131,6 +131,7 @@ Interestingly all indivividual classifiers performed similarly :) See the full t
 
 # Off-topic
 Since my personal laptop can't handle ML model training (I used to use a 4-GPU server at the lab), I initially thought about using Google Colab. However, I'm not very enthusiastic of launching code in chunks—at least not unless I’m in debugging mode besides the fact that data transfer took an eternity. So I later switched to Amazon SageMaker and created a JupyterLab environment with a 16 GB GPU and a 4-core CPU. The interface for writing and running scripts is very simple, user-friendly, and runs smoothly. I really enjoyed setting up my AWS SageMaker environment.
+
 ![Visitor Count](https://profile-counter.glitch.me/{alfonsoer}/count.svg)
 
     <div align="center">
@@ -138,3 +139,13 @@ Since my personal laptop can't handle ML model training (I used to use a 4-GPU s
             src="https://widgetbite.com/stats/<alfonsoer>"/>  
     </div>
 
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
